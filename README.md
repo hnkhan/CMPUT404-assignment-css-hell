@@ -22,3 +22,13 @@ repository and (C) 2013 Abram Hindle visibile in the text.
 Code is licensed under the Apache 2.0 license.
 
 
+Modifications made to Gutenberg files:
+-Added rustic paper background
+-Made font seem old
+-Aligned the text
+
+
+Sources used:
+https://www.w3schools.com/howto/howto_css_hero_image.asp
+https://www.w3schools.com/css/css_navbar.asp
+https://csswizardry.com/2011/01/create-a-centred-horizontal-navigation/
