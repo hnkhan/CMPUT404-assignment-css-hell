@@ -1,0 +1,35 @@
+p {
+    color: #000000;
+    font-family: monospace;
+    margin-left: 10%;
+}
+
+body {
+    background-image: url("http://1.bp.blogspot.com/-M5YBeoKJiXQ/Tjezqedxx7I/AAAAAAAAABc/yDWLebB2-sI/s1600/old+old+paper.jpg");
+}
+
+pre {
+    color: #000000;
+    text-align: center;
+    font-style: italic;
+}
+
+h1, h2, h3, h4, h5 {
+    text-align: center;
+    font-style: bold;
+    font-family: monospace;
+}
+
+blockquote {
+    text-align: left;
+}
+
+div.fig { 
+    display:block; 
+    margin:0 auto; 
+    text-align:center; 
+}
+
+img {
+    border-radius: 8px;
+}
